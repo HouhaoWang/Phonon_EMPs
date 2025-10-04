@@ -1,4 +1,4 @@
-# Phonon_EMP_Diag  
+# Phonon_EMPs_Diag  
 The tool can quickly obtain all enforced band crossing information via compatibility relations along all high-symmetry lines, including their corresponding irreducible representations, topological properties, associated emergent particles, and the number of times each enforced band crossing appears for all 10,034 materials stored in [*the public phonon database at Kyoto University*](https://github.com/atztogo/phonondb).  
 
 
